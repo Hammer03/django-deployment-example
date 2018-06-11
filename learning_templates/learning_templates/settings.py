@@ -25,7 +25,7 @@ SECRET_KEY = '$oet72d5_oqkky@*mf=ftw3t-__=ye(&2r*mz3)6ckmtzevu(5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['thehammer03.pythonanywhere.com']
 
 
 # Application definition
