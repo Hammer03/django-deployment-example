@@ -27,7 +27,7 @@ SECRET_KEY = 'eb92#gb7fzpjti)b*mou@5$uo-=0_le_4$74$-5+%nw*g@=w6j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['thehammer03.pythonanywhere.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
